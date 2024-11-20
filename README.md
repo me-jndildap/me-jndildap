@@ -1,3 +1,5 @@
+[![Discord Presence](https://lanyard.cnrad.dev/api/895207884009381950?theme=dark&idleMessage=I'm%20drinking%20coffee%20now)](https://discord.com/users/895207884009381950)
+
 # My daily coffee recipe
 
 ## Summary
